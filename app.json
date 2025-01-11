@@ -9,7 +9,7 @@
     ],
     "website": "https://t.me/unbornedvillian",
     "repository": "https://github.com/Bloodlinebots/RishuStringHack.git",
-    "success_url": "https://t.me/UTTAM470",
+    "success_url": "https://t.me/unbornedvillian",
     "env": {
         "API_ID": {
             "description": "your API_ID ",
